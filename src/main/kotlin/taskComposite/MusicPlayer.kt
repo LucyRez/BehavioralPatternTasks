@@ -1,0 +1,4 @@
+package taskComposite
+
+class MusicPlayer {
+}
